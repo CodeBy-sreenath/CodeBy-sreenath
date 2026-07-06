@@ -77,12 +77,12 @@ Full-stack developer focused on building scalable, production-ready web applicat
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeBy-sreenath&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBy-sreenath&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeBy-sreenath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBy-sreenath&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBy-sreenath&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBy-sreenath&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
