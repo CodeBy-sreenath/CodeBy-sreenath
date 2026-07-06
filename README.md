@@ -21,7 +21,7 @@ Building scalable web applications and solving real-world problems with Python &
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
-## 💻 Tech Stack
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
